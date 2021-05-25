@@ -1,4 +1,6 @@
-### HELLO GUYS 👋
+### HELLO swastik👋
+
+![Visitor Count](https://komarev.com/ghpvc/?username=swastik2703&color=blue&logo=flat)
 
 <!--
 **swastik2703/swastik2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
