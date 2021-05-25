@@ -15,6 +15,10 @@ Here are some ideas to get you started:-->
 [![Twitter](https://img.shields.io/badge/swastik2703-black?style=flat&logo=Twitter&logoColor=blue&link=https:https:https://twitter.com/swastik2703)](https://twitter.com/SwastikVasistha)
 [![Instagram](https://img.shields.io/badge/swastik2703-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/sbajaj_02/)](https://www.instagram.com/swastik_vasistha/)
 
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/wgFWLRiND4bkyYR4IN/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100" height="100"></p>
+
 <div align=center>
 
 
