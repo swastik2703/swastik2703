@@ -35,3 +35,7 @@ Here are some ideas to get you started:-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swastik2703&theme=prussian)](https://git.io/streak-stats)
 </div>
+### Graph
+
+  [![swastik's github activity graph](https://activity-graph.herokuapp.com/graph?username=swastik2703&theme=dracula)]
+  (https://activity-graph.herokuapp.com/graph?username=swastik2703&theme=dracula)
