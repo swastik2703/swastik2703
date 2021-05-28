@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning c/C++ with DS/Algo
 - 👯 I’m looking to collaborate on c/c++
-- 🤔 I’m looking for help to help myself when i m wrong.
+- 🤔 I’m looking for help when i m wrong.
 - how u can connect with me:-
 
 [![Linkedin](https://img.shields.io/badge/swastik2703-black?style=flat&logo=Linkedin&logoColor=blue&link=https://linkedin.com/in/swastik-vasistha-747400200/)](https://linkedin.com/in/swastik-vasistha-747400200/)
