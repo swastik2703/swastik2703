@@ -8,7 +8,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on improving my skills
-- 🌱 I’m currently learning c/C++ with DS/Algo
+- 🌱 I’m currently learning C/C++ with DS/Algo
 - 👯 I’m looking to collaborate on c/c++
 - 🤔 I’m looking for help when i m wrong.
 - how u can connect with me:-
